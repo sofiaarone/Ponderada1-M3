@@ -4,10 +4,10 @@ Esta é a primeira ponderada do módulo 3. Há duas pastas dentro da pasta princ
 
 ---
 
-- Parte 1: 
+- Parte 1 - Blink Led Interno: 
 
 Nesta parte foi utilizado o LED interno do Arduino Uno (ligado ao pino 10) para realizar um teste que faz o led piscar. O código faz o LED acender e apagar em intervalos regulares.
 
-- Parte 2 - Blink Externo:
+- Parte 2 - Simulando Blink Externo:
 
 Esta parte simula um LED externo piscando utilizando um Arduino Uno, feito no TinkerCad.
