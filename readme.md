@@ -1,6 +1,6 @@
 ### Ponderada de programação
 
-Esta é a primeira ponderada do módulo 3. Há duas pastas dentro da pasta principal do projeto, sendo elas a resolução da Parte 1 e a Parte 2 da ponderada.
+Esta é a primeira ponderada do módulo 3. Há duas pastas dentro da pasta principal do projeto, sendo elas a resolução da Parte 1 e da Parte 2 da ponderada.
 
 ---
 
